@@ -85,10 +85,6 @@ As a cellular engineer, harvesting the culture at an incorrect time can lead to 
 * **Vectorized Mathematical Division**: Executing efficient mathematical transformations between separate tabular dimensions instantly.
 * **Dual-Constraint Slicing Logic (`&`)**: Restraining structural subsets using multi-layered biological parameters simultaneously.
 * **Immunological Manufacturing Dynamics**: Visualizing the proliferation imbalance between helper lymphocytes and cytotoxic effector populations inside a clinical bioreactor.
-# Open your readme file and append the Project 4 notes to the very bottom
-with open("README.md", "a") as f:
-    f.write("""
----
 
 ## 🧬 Project 4: Stem Cell Biology (Turning Stem Cells into Heart Cells)
 
