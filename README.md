@@ -109,4 +109,3 @@ To test if our recipes actually worked, we used a cell counter to measure a mast
 * **Translating Lab Rules to Code**: Learned how to take standard FDA lab benchmarks and turn them into simple logic filters to isolate safe, clinical-grade tissue batches.
 """)
 
-print("Project 4 notes successfully added to your local README file!")
